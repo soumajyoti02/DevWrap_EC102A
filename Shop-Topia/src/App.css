@@ -1,14 +1,15 @@
-.home{
-  background-color: #F5CAC3;
+.home {
+  background-color: white;
   min-height: 100vh;
   max-height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.main{
-  background-color: #F7EDE2;
-  height: 90vh;
-  width: 95%;
+
+.main {
+  /* background-color: rgb(244, 198, 198); */
+  height: 100vh;
+  width: 100%;
   border-radius: 30px;
 }
